@@ -10,4 +10,4 @@
 http://seer.61.com/dll/PetFightDLL_201308.swf
 第二行就放PetFightDLL_201308_显血_加密.swf 文件就行
 你重新进游戏清理缓存，就能显血了
-
+有问题加Q：3516275101
